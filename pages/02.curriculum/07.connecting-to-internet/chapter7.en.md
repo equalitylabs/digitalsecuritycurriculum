@@ -81,6 +81,10 @@ please make sure you use the https protocol between sites.
 		        </div>
 		     </div>
 
+There are a couple of additional tips to truly use Tor Browser in a safer way.  The first is to understand the list of all entry nodes to the Tor Network is public and published.  If you access the Tor network via a work or school network, then it is possible see that you are connecting to Tor (though what you are doing on it will not be visible).  In order to workaround this scenario, you can connect to a VPN first (see next section), and then connect to Tor. 
+
+Many sites that you may visit over a Tor Browser may require Javascript enabled, and will not function without it.  The security model behind Javascript is complex, and in general enabling it can open you up to malicious software that can try to uniquely identify you.  The best practice is to disabled it for all sites, and enable it only for sites that you trust or have vetted.
+
 Tor is only as good as the more diverse communities use it. If you want to learn more about Tor or even join the Tor community please visit www.torproject.org
 
 <div class="GLBL_H2" markdown="1">## VIRTUAL PRIVATE NETWORKS (VPN)</div>
