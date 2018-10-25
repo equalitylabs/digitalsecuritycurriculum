@@ -272,16 +272,18 @@ After installing Simply pick one or more photos with EXIF information from the G
 
 <div class="GLBL_H2" markdown="1">## 1. ACTIVATE YOUR PIN AND SCREEN LOCK</div>
 
-We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives. A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
+We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives.  More sophisticated law enforcement agencies now have access to technology that will exhaustively try every single digit combination of a numeric password, until a match is found.  In order to mitigate these automated law enforcement tools, it’s best to use an alphanumeric pin if you think your phone will be seized at a checkpoint or demonstration.    A good PIN/PASSWORD would be at least six alphanumeric characters digits long and does not use any of the following items:
 
 * Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
 * Significant dates such as your birth year or spouse’s birthday.
 * Any part of your Social Security Number.
 * Any part of your address or phone number.
-* Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on).
-With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+* Any part of of another password
+* Any word that can be found in any human language dictionary
+* Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on). With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+* Alphanumeric pins increase the complexity, also preventing automated pin guessing attempts. 
 
-So lets get started with setting up your iPhone. The first step is to set up the PIN passcode. Some phones may also allow you to set your fingerprint as your password through Touch ID. We absolutley **do not** recommend setting up Touch ID, as there are more protections for PIN Passcodes then there are for Touch Id. Further you can be physically compelled to open your device against your will. That is why we recommend setting a strong PIN and consider creating one that is alphanumeric. 
+So lets get started with setting up your iPhone. The first step is to set up the PIN passcode. Some phones may also allow you to set your fingerprint as your password through Touch ID. We absolutley **do not** recommend setting up Touch ID, as there are more protections for PIN Passcodes then there are for Touch Id. Further you can be physically compelled to open your device against your will. We also recommend avoiding facial recognition unlock for similar reasons.  That is why we recommend setting a strong PIN and consider creating one that is alphanumeric. 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -364,9 +366,13 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 		        </div>
 		     </div>
 
+<div class="GLBL_H2" markdown="1">##4. ENABLE USB RESTRICTED MODE</div>
+USB Restricted mode is an iPhone setting that prevents USB accessories from connecting to an IOS device.  This mode was introduced to iOS devices in order to deter governments and hackers from using special equipment to crack iPhone encryption.  This feature should be enabled by people who are going through a customs checkpoint or airport border crossing.  Instructions for enabled this mode can be found here:
+
+https://support.apple.com/en-us/HT208857
 
 
-<div class="GLBL_H2" markdown="1">##  4. TURN OFF LOCATION SERVICES</div>
+<div class="GLBL_H2" markdown="1">##  5. TURN OFF LOCATION SERVICES</div>
 
 Many people do not realize how much location information your iPhone is sharing with both Apple and the companies who create the apps you use. One way to begin minimizing this information is to monitor and change your location settings on your phone. 
 
@@ -399,7 +405,7 @@ When Location Services are turned completely off, no apps can use your location 
 		       </div>
 		     </div>
 
-<div class="GLBL_H2" markdown="1">## 5. GUIDED ACCESS FOR IPHONES</div>
+<div class="GLBL_H2" markdown="1">## 6. GUIDED ACCESS FOR IPHONES</div>
 
 Whether you're working for an organization that wants to use iPhones to display information or you'd simply like your child to focus on their homework app, you can use Apple's Guided Access feature to lock your screen on one specific app. 
 
@@ -457,7 +463,7 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 Once Guided Access is enabled, anyone trying to use or leave a specific app will require the passcode. Without the code, he or she will not be able to exit Guided Access.
 
-<div class="GLBL_H2" markdown="1">## 6.DEAL WITH THE METADATA IN YOUR PHOTOS</div>
+<div class="GLBL_H2" markdown="1">## 7.DEAL WITH THE METADATA IN YOUR PHOTOS</div>
 
 Photos we take on all electronic devices can often carry data that can be used to pinpoint our location and gather other information about us.
 
@@ -502,6 +508,23 @@ Now we will work to scrub, or remove, existing metadata from images we have take
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">When removing metadata from a photo that is about to be shared, PixlMet makes a copy of the original photo and only removes metadata from the copy. The original file remains unmodified in your photo library.</span>
 		       </div>
 		     </div>
+
+**USE VIRTUAL PHONE NUMBERS TO SHIELD YOUR IDENTITY**
+
+Many people find the use of virtual phone numbers critical in their work.  A virtual phone number allows someone to make and receive phone calls and SMS messages through their phone but via an alternate phone number.   Use of this technology can help obscure your real identity in situations when dealing with unknown persons in the general public.  Common uses of virtual phone numbers include posting them as a number in social media apps for job hunting, dating, etc.  In the activist world, common uses include giving out a virtual phone number when engaging in community organizing work for a hotline.  Additionally these phone numbers can be useful when maintaining a public online presence, such as a contact point in a social media profile.  Virtual phone number services can be found free or cheaply in much of the world.  However, due to legal restrictions on Voice Over IP (VOIP) services, virtual phone numbers are not available in India.  
+
+In North America, two options include acquiring a free Google Voice number.  This option is good for people that need a single phone number that can be used for a long period of time, such as a hotline number.  It is also possible to use other security apps, like Signal Messenger, on top of a Google Voice number.  Setting up a number takes approximately 5 minutes, and instructions can be found here:   https://support.google.com/voice/answer/7207482
+
+There are many other paid commercial providers of virtual numbers.  In North America, popular apps include Burner App, Sideline, Hushed, Grasshopper, and Skype virtual phone numbers.  Each of these providers have different price points and features, depending on the needs of an organization. 
+
+**USE OF BURNER PHONES**
+
+Every mobile phone in the world can be uniquely tracked across locations in real time, and the complete communication history between any two mobile phones is accessible by corporations and governments.  At times, it is useful to employ the use of ultra-cheap feature phones to conduct operations without revealing location or identity.  These phones are called Burner Phones because they are intended to be disposable and one-time for a given operation.  Activists often use burner phones in order to communicate during a protest or provide a phone number to activate an online service.  The use of burner phones in India is generally not available due to ID requirements for purchase of a SIM card.  
+
+* Burner phones should be kept away from personal mobile phones, laptops, or any other devices that broadcast on the internet that could identify you.  Keep a faraday bag at all times in order to block signals from your phones. 
+* Phones should be bought in pairs in cash.  Feature phones that are available with pre-paid plans can be found for under 20 USD at major chain stores.  Ideally the store is in a different locale than where you live.  If using an ATM for cash, do it on a separate day and locale than the point of purchase.  Do not bring your normal mobile phone or tablet with you during purchase (or be sure to use a faraday bag).  You can also buy pre-paid phone cards in cash from similar stores if you run out of data or minutes.
+* Do not power on or remove out of a faraday bag when you are in a location that is associated with you:  your home, your work, or a place you are known to frequent.
+* Once you are done with the phone, it’s a good idea to smash it with a hammer and dispose of it in a trash away from your home.
 
 
 ![](/images/Curriculum_img_39.png)
