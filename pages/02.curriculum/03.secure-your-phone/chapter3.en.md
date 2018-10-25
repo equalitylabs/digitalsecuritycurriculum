@@ -111,6 +111,10 @@ When you enter your PIN or your pattern on the lock screen, your phone decrypts 
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">Before starting the encryption process, ensure your phone is backed up, fully charged, and plugged into a power source. This ensures that the encrypting process is not interrupted. If it is interrupted, and your data is lost or damaged, you will have a backup of all of your data.</span>
 		       </div>
 		     </div>
+Newer versions of Android (7.0 or higher) on more recent devices often have encryption enabled from the start, and only a pin code is required to enable it.   To enable encryption on this, go to **Settings → Security → Screen Lock** and tap your current screen lock.  From there, make sure “require PIN to start device” is turned on.  You will then be asked for a your code every time you start up. 
+ 
+However, older or cheaper Android (6.0 or lower) devices requires a longer process to enable encryption. 
+ **NOTE:**  Before starting the encryption process, ensure your phone is backed up, fully charged, and plugged into a power source. This ensures that the encrypting process is not interrupted. If it is interrupted, and your data is lost or damaged, you will have a backup of all of your data.
 
 To begin encryption find out whether or not your Android has Encryption enabled. Some versions of Android come with Encryption already set up while others need to set it up manually. To discover where your phone is at please first visit **Settings → Personal → Security → Encryption.**
 
