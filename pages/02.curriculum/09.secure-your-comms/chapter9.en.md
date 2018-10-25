@@ -37,7 +37,7 @@ Now let’s explore then how to send End-to-End Encryption Messages on each of t
 
 <div class="SECS_H1" markdown="1"># SIGNAL</div>
 
-Signal<sup>1</sup> is a free and open source communication app for Android and iOS that employs end-to-end encryption, allowing users to have encrypted conversations with other Signal users and send end-to-end encrypted texts, group texts, photos, and video messages. Signal uses your data connection, so all parties in a Signal communication must have Internet access on their mobile devices. Signal users don’t incur SMS and MMS fees.
+Signal<a href="#index1"><sup>1</sup></a> is a free and open source communication app for Android and iOS that employs end-to-end encryption, allowing users to have encrypted conversations with other Signal users and send end-to-end encrypted texts, group texts, photos, and video messages. Signal uses your data connection, so all parties in a Signal communication must have Internet access on their mobile devices. Signal users don’t incur SMS and MMS fees.
 
 You can download Signal as an app on your phone or use it as a browser extension on your computer.
 
@@ -346,7 +346,7 @@ Signal has a feature called “disappearing messages” that automatically remov
 
 SpiderOak has been a trusted company in the backup space for almost a decade, known for their Zero Knowledge privacy practices. They have been endorsed by Edward Snowden in general and specifically as an alternative to Dropbox in October of 2014.
 
-Semaphor<sup>2</sup> is a real-time team collaboration application created by SpiderOak intended to provide an experience comparable to products like HipChat, Slack, or IRC. Because they are Zero Knowledge, it means that they know nothing about the encrypted data you store on their servers. Their unique design means nothing leaves your computer until after it is encrypted and is never decrypted until it is unlocked with your password on your computer.
+Semaphor<a href="#index2"><sup>2</sup></a> is a real-time team collaboration application created by SpiderOak intended to provide an experience comparable to products like HipChat, Slack, or IRC. Because they are Zero Knowledge, it means that they know nothing about the encrypted data you store on their servers. Their unique design means nothing leaves your computer until after it is encrypted and is never decrypted until it is unlocked with your password on your computer.
 
 Each conversation is cryptographically compartmentalized meaning only the participants in any given conversation have access to that data or the encryption keys; however members who join the conversation later can see content created before their entry into the conversation.
 
@@ -447,7 +447,7 @@ Tap Secret Conversation to switch it over.
 
 WHAT IS ENCRYPTION?
 
-Encryption<sup>3</sup> as we've explained, is when data is scrambled in such a way that only someone with the secret password or key can read it. The scrambling relies on mathematical techniques. These techniques are powerful enough that even major governments cannot unscramble the data you choose to encrypt.
+Encryption<a href="#index3"><sup>3</sup></a> as we've explained, is when data is scrambled in such a way that only someone with the secret password or key can read it. The scrambling relies on mathematical techniques. These techniques are powerful enough that even major governments cannot unscramble the data you choose to encrypt.
 
 ENCRYPTION FOR PERSONAL USE
 
@@ -505,14 +505,14 @@ To address this problem, we use public key encryption. To understand how this pr
 * You want to communicate securely to your friend. Instead of sending them a private key, you ask your friend to send you a lock that only they have the key to. The lock your friend sends is called a public key.
 * You receive your friend’s lock, then put your message in a box and lock it with that lock.
 * You send the locked box to your friend.
-* Your friend uses their private (secret) key, is paired to the lock to unlock it and securely read the message.<SUP>4</SUP>
+* Your friend uses their private (secret) key, is paired to the lock to unlock it and securely read the message.<a href="#index4"><sup>4</sup></a>
 
 You may be thinking, “What if a government or hacker hires a locksmith to pick the lock?” In this scenario, a weak encryption technique (low-bit encryption algorithm) would represent an easy-
 
 
 to-pick lock that would only take a few minutes to break. A strong encryption algorithm (known as an RSA, which is used in the GPG software package you'll read about on the next page), would take a locksmith hundreds of years to pick.
 
-Using a technique like this, you can communicate over an insecure network and still have security. The set of mathematical techniques that allow this to happen electronically is called public key encryption. This encryption techniques is the basis for all secure communication on the Internet, whether it’s HTTPS, GPG, Signal, Tor, or VPNs.<SUP>5</SUP>
+Using a technique like this, you can communicate over an insecure network and still have security. The set of mathematical techniques that allow this to happen electronically is called public key encryption. This encryption techniques is the basis for all secure communication on the Internet, whether it’s HTTPS, GPG, Signal, Tor, or VPNs.<a href="#index5"><sup>5</sup></a>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -899,9 +899,14 @@ Using your new temporary email address, register your anonymous social media acc
 		       </div>
 		     </div>
 
-1. [https://ssd.eff.org/en/module/how-use-signal-android](https://ssd.eff.org/en/module/how-use-signal-android)
-2. [https://spideroak.com/solutions/semaphor](https://spideroak.com/solutions/semaphor)
-3. [https://www.virtru.com/blog/encryption-basics-quick-guide/](https://www.virtru.com/blog/encryption-basics-quick-guide/)
-4. [https://help.gnome.org/users/seahorse/stable/about-diff-private-public.html.en](https://help.gnome.org/users/seahorse/stable/about-diff-private-public.html.en)
-5. [https://wordtothewise.com/2014/09/cryptography-alice-bob/](https://wordtothewise.com/2014/09/cryptography-alice-bob/)
+
+<span id="index1">1</span>. [https://ssd.eff.org/en/module/how-use-signal-android](https://ssd.eff.org/en/module/how-use-signal-android)
+
+<span id="index2">2</span>. [https://spideroak.com/solutions/semaphor](https://spideroak.com/solutions/semaphor)
+
+<span id="index3">3</span>. [https://www.virtru.com/blog/encryption-basics-quick-guide/](https://www.virtru.com/blog/encryption-basics-quick-guide/)
+
+<span id="index4">4</span>. [https://help.gnome.org/users/seahorse/stable/about-diff-private-public.html.en](https://help.gnome.org/users/seahorse/stable/about-diff-private-public.html.en)
+
+<span id="index5">5</span>. [https://wordtothewise.com/2014/09/cryptography-alice-bob/](https://wordtothewise.com/2014/09/cryptography-alice-bob/)
 

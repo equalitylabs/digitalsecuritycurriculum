@@ -23,15 +23,15 @@ As useful as it is, it is better for you to think about your phone less like an 
 ![](/images/Curriculum_img_11a.png)
 
 
-Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without the need for warrants.<sup>1</sup>
+Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without the need for warrants.<a href="#index1"><sup>1</sup></a>
 
-Organizations such as the [American Civil Liberties Union ](https://www.aclu.org/issues/privacy-technology/location-tracking/cell-phone-privacy)(ACLU) and [Electronic Privacy Information Center](https://www.epic.org/privacy/location/) (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<sup>2</sup>
+Organizations such as the [American Civil Liberties Union ](https://www.aclu.org/issues/privacy-technology/location-tracking/cell-phone-privacy)(ACLU) and [Electronic Privacy Information Center](https://www.epic.org/privacy/location/) (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<a href="#index2"><sup>2</sup></a>
 
 In extreme circumstances, to prevent all tracking of your location from your phone the best option is to leave your phone at home. If that is not an option then shut the phone down and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a notebook or a computer before you power down your device.
 
-If your phone’s battery cannot be removed, another option is using a **Faraday Bag**. A Faraday bag is a bag which blocks the transmision of electronic fields.<sup>3</sup> Not all faraday bags are created equal and in order to use a faraday bag effectively you should test the bag. You want to confirm that, at a minimum, cell and GPS services are blocked. 
+If your phone’s battery cannot be removed, another option is using a **Faraday Bag**. A Faraday bag is a bag which blocks the transmision of electronic fields.<a href="#index3"><sup>3</sup></a> Not all faraday bags are created equal and in order to use a faraday bag effectively you should test the bag. You want to confirm that, at a minimum, cell and GPS services are blocked. 
 
-To begin testing place the phone as close as you can to your router. If your phone does not receive the texts then the faraday bag is effectively blocking your cell transmissions. Do the same by testing a GPS enable application. If you find that the phone is blocking that as well then the bag is working. If you are unsure about how to do this process please work with a digital security professional as you do not want to risk being wrong. before putting the bag to use in everyday life.<sup>4</sup> 
+To begin testing place the phone as close as you can to your router. If your phone does not receive the texts then the faraday bag is effectively blocking your cell transmissions. Do the same by testing a GPS enable application. If you find that the phone is blocking that as well then the bag is working. If you are unsure about how to do this process please work with a digital security professional as you do not want to risk being wrong. before putting the bag to use in everyday life.<a href="#index4"><sup>4</sup></a> 
 
 In addition to these scenarios, we face threats of information leaks during the everyday use of our phones. There are several simple safe practices that can be adopted to keep ourselves and our information safe. In the following section, we will explore a few of them.
 
@@ -57,14 +57,17 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 <div class="GLBL_H2" markdown="1">## 2. SET UP YOUR PIN AND ACTIVATE A SCREENLOCK</div>
 &nbsp;
 
-We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives. A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
+We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives. More sophisticated law enforcement agencies now have access to technology that will exhaustively try every single digit combination of a numeric password, until a match is found.  In order to mitigate these automated law enforcement tools, it’s best to use an alphanumeric pin if you think your phone will be seized at a checkpoint or demonstration.  A good PIN/PASSWORD would be at least six alphanumeric characters long and does not use any of the following items:
 
 * Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
 * Significant dates such as your birth year or spouse’s birthday.
 * Any part of your Social Security Number.
 * Any part of your address or phone number.
+* Any part of of another password
+* Any word that can be found in any human language dictionary
 * Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on).
 With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+* Alphanumeric pins increase the complexity, also preventing automated pin guessing attempts.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -77,7 +80,7 @@ With a six-digit PIN, there are one million possible codes, so it’s harder for
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
-                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">We highly recommend that people DO NOT use the fingerprint login, as you could be forced or manipulated into putting your finger on your screen. There are also more legal protections for the PIN versus the fingerprint login or even swipe access to one's phone. Finally, it is never a good idea to give your biometric data like a fingerprint to a corporation if you can avoid it. So when in doubt use a PIN!</span>
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">We highly recommend that people DO NOT use the fingerprint login, as you could be forced or manipulated into putting your finger on your screen. There are also more legal protections for the PIN versus the fingerprint login or even swipe access to one's phone.  Similarly, we also recommend avoiding the use of facial recognition as a sole login.  Finally, it is never a good idea to give your biometric data like a fingerprint or face to a corporation if you can avoid it. So when in doubt use a PIN!</span>
 		       </div>
 		     </div>
 <div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
@@ -147,7 +150,7 @@ Switch off **wireless **and **GPS location** (under **Location Services**) and m
 <div class="GLBL_H2" markdown="1">## 7. HIDING CALLER ID</div>
 &nbsp;
 
-You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android.<sup>5</sup> However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
+You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android.<a href="#index5"><sup>5</sup></a> However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
 
 Go to **Settings** and then tap on **Call → Additional Settings → Caller ID → Hide Number** and it will be blocked.
 
@@ -298,7 +301,7 @@ Different versions of iPhones may have different ways to get to the settings des
 
 ![](/images/Curriculum_img_27.jpg)
 
-Additionally if you want further protection you can also lock your SIM Card. Learn more about how to do that [here](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/).<sup>6</sup> 
+Additionally if you want further protection you can also lock your SIM Card. Learn more about how to do that [here](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/).<a href="#index6"><sup>6</sup></a> 
 
 <div class="col-xs-12 none">
                         
@@ -309,7 +312,7 @@ Additionally if you want further protection you can also lock your SIM Card. Lea
 
 <div class="GLBL_H2" markdown="1">## 2. ACTIVATE YOUR SECURITY LOCK TIMER</div>
 
-Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.<sup>7</sup>
+Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.<a href="#index7"><sup>7</sup></a>
 
 
 <div class="col-xs-12 none">
@@ -345,7 +348,7 @@ With Androids, you must enable device encryption, but almost all current Apple d
 
 Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and **never** to icloud.This can be hard for folks because part of the ease of the apple ecosystem is the convenience of syncing content between your different apple devices. However if you backup your content to iCloud you know are allowing Apple to be a third party that can weigh-in on who can access your data. We recommedn that you retain maximum control of your data and break up with iCloud today and move to backing up your phone to an external hard drive. 
 
-Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</sup>
+Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<a href="#index8"><sup>8</sup></a>
 
 
 ![](/images/Curriculum_img_30.jpg)
@@ -368,7 +371,7 @@ The first time an app tries to access your location it will ask for your permiss
 
 ![](/images/Curriculum_img_31.jpg)
 
-Some apps will ask to use your location only while the app is in use. An app is considered “in use” when you are actively using it in the foreground or when it's running idly in the background, which the status bar will indicate. Other apps will ask for access to your location even when they are not in use. Your operating system will remind you which apps have this access with pop-up notifications, triggered when an app uses your location in the background.<sup>9</sup>
+Some apps will ask to use your location only while the app is in use. An app is considered “in use” when you are actively using it in the foreground or when it's running idly in the background, which the status bar will indicate. Other apps will ask for access to your location even when they are not in use. Your operating system will remind you which apps have this access with pop-up notifications, triggered when an app uses your location in the background.<a href="#index9"><sup>9</sup></a>
 
 
 ![](/images/Curriculum_img_32.jpg)
@@ -501,12 +504,21 @@ Now we will work to scrub, or remove, existing metadata from images we have take
 
 
 
-1. [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
-2. [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
-3. [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
-4. [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
-5. [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
-6. [http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
-7. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
-8. [https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
-9. [http://www.imore.com/how-use-guided-access-iphone-and-ipad](http://www.imore.com/how-use-guided-access-iphone-and-ipad)
+
+<span id="index1">1</span>. [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
+
+<span id="index2">2</span>. [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
+
+<span id="index3">3</span>. [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
+
+<span id="index4">4</span>. [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
+
+<span id="index5">5</span>. [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
+
+<span id="index6">6</span>. [http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
+
+<span id="index7">7</span>. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
+
+<span id="index8">8</span>. [https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
+
+<span id="index9">9</span>. [http://www.imore.com/how-use-guided-access-iphone-and-ipad](http://www.imore.com/how-use-guided-access-iphone-and-ipad)

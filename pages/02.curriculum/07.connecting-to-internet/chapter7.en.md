@@ -5,7 +5,7 @@ slug: secure_your_network
 
 ![](/images/Curriculum_img_155.jpg)
 
-<div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?<sup>1</sup></div>
+<div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?<a href="#index1"><sup>1</sup></a></div>
 
 ![](/images/Curriculum_img_156.png)
 
@@ -27,7 +27,7 @@ This summary, even without all of the technical details, is super helpful when c
 
 Essentially, when you go to view a webpage, you are showing the site's IP address to your ISP, and asking it to connect you with the webserver's ISP. And, if you have an unfiltered Internet connection, it will do precisely that. If you are in a country that censors the Internet, however, it will first consult a blacklist of forbidden websites and then decide whether to comply with your request.
 
-In some cases, there may be a central organisation that handles filtering in place of the ISP's themselves. Often, a blacklist will contain domain names, such as www.jhalkaribai.com, rather than IP addresses. And, in some countries, filtering software monitors your connection, rather than trying to block specific Internet addresses. This type of software scans through the requests that you make and the pages that are returned to you, looking for sensitive key words and then deciding whether or not to let you see the results.<sup>2</sup>
+In some cases, there may be a central organisation that handles filtering in place of the ISP's themselves. Often, a blacklist will contain domain names, such as www.jhalkaribai.com, rather than IP addresses. And, in some countries, filtering software monitors your connection, rather than trying to block specific Internet addresses. This type of software scans through the requests that you make and the pages that are returned to you, looking for sensitive key words and then deciding whether or not to let you see the results.<a href="#index2"><sup>2</sup></a>
 
 To make matters worse, when a webpage is blocked you may not even know it. While some filters provide a 'block page' that explains why a particular page has been censored, others display misleading error messages. These messages may imply that the page cannot be found, for example, or that the address was misspelled.
 
@@ -43,13 +43,13 @@ Your Internet traffic is monitored for keywords.
 
 <div class="GLBL_H2" markdown="1">## TOR</div>
 
-Tor<sup>3</sup> is used by political activists, whistleblowers, journalists, domestic violence survivors, and average people around the world who need to shield their identities as they read and write online.
+Tor<a href="#index3"><sup>3</sup></a> is used by political activists, whistleblowers, journalists, domestic violence survivors, and average people around the world who need to shield their identities as they read and write online.
 
 It helps you hide your IP address and prevent browser fingerprinting, making it more difficult for online trackers and even governments to surveil you.
 
 In countries where huge swaths of the Internet are blocked, people use Tor to access the open, uncensored web. Tor is an effective censorship circumvention tool, allowing its users to reach otherwise blocked destinations or content.
 
-The range of people who use Tor are actually part of what makes it so secure. Tor hides you among the other users on the network, so the more populous and diverse the user base for Tor is, the more your anonymity will be protected.<sup>4</sup>
+The range of people who use Tor are actually part of what makes it so secure. Tor hides you among the other users on the network, so the more populous and diverse the user base for Tor is, the more your anonymity will be protected.<a href="#index4"><sup>4</sup></a>
 
 There are lots of reasons you might want to use Tor. They can include:
 
@@ -102,25 +102,30 @@ When using VPN you connect to a server run by your VPN provider (a “VPN server
 
 This setup has a number of important consequences:
 
-1. YOUR ISP CANNOT KNOW WHAT YOU ARE UP TO ON THE INTERNET
+
+<span id="index1">1</span>. YOUR ISP CANNOT KNOW WHAT YOU ARE UP TO ON THE INTERNET
 
 It cannot see your data because it is encrypted. It cannot know which websites (etc.) you visit because all Internet activity is routed through the VPN server. Your ISP can only see that you are connected to the VPN server.
 
-2. YOU APPEAR TO ACCESS THE INTERNET FROM THE IP ADDRESS OF THE VPN SERVER
+
+<span id="index2">2</span>. YOU APPEAR TO ACCESS THE INTERNET FROM THE IP ADDRESS OF THE VPN SERVER
 
 If the VPN server is located in a different country to you, then as far as the Internet is concerned you are located in that country (most VPN services run servers located in many different countries). Anyone monitoring your Internet activity from the Internet will only be able to trace it back to the VPN server, so unless the VPN provider hands over your details (more on this later), your real IP address is hidden. This means that websites etc. cannot see your true IP address (just that of the server).
 
-3. IT IS SAFE TO USE PUBLIC WIFI HOTSPOTS
+
+<span id="index3">3</span>. IT IS SAFE TO USE PUBLIC WIFI HOTSPOTS
 
 Because the Internet connection between your device and the VPN server is encrypted. Even if a hacker somehow manages to intercept your data, for example by tricking you into connecting to an “evil twin” hotspot or packet sniffing your WiFi data, the data is safe because it is encrypted.
 
-4. YOUR VPN PROVIDER CAN KNOW WHAT YOU ARE UP TO ON THE INTERNET
 
-Your VPN protects your Internet traffic from surveillance on the public network, but it does not protect your data from people on the private network you’re using.<sup>5</sup> This means whenever you are looking for a VPN, you want to see what their data sharing policies are and if they are dedicated to doing VPN’s or have only recently started. This can be an indicator to the expertise and seriousness of the service with regards to User privacy.
+<span id="index4">4</span>. YOUR VPN PROVIDER CAN KNOW WHAT YOU ARE UP TO ON THE INTERNET
+
+Your VPN protects your Internet traffic from surveillance on the public network, but it does not protect your data from people on the private network you’re using.<a href="#index5"><sup>5</sup></a> This means whenever you are looking for a VPN, you want to see what their data sharing policies are and if they are dedicated to doing VPN’s or have only recently started. This can be an indicator to the expertise and seriousness of the service with regards to User privacy.
 
 You are therefore shifting trust away from your ISP (which has no interest in, or commitment to, protecting your privacy) to your VPN provider who usually promises to protect your privacy. More privacy-minded VPN services mitigate this issue by employing various technical measures to know as little as they can about you. More on this later.
 
-5. YOUR INTERNET WILL SLOW DOWN
+
+<span id="index5">5</span>. YOUR INTERNET WILL SLOW DOWN
 
 Encrypting and decrypting data requires processing power. This also means that, technically, the stronger the encryption used, the slower your Internet access. However, given the power of modern computers, this issue is relatively minor compared to the extra distance traveled by your data. Using VPN always introduces another leg to the journey that your data has to travel (i.e. to the VPN server), and thanks to the laws of physics, the further your data has to travel, the longer it takes.
 
@@ -176,7 +181,11 @@ There are subtle, but important differences between using Tor and a VPN:
 </table>
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
 
-1. [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
-2. [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-3. [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
-4. [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
+
+<span id="index1">1</span>. [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
+
+<span id="index2">2</span>. [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
+
+<span id="index3">3</span>. [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
+
+<span id="index4">4</span>. [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)

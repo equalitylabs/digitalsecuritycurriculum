@@ -10,6 +10,6 @@ slug: secure_your_network_access
 
 ✔ 利用虛擬私人網路 (VPN) 來連結互聯網。我們推薦的優質VPN 是Golden Frogs VYPR VPN. [https://www.goldenfrong/vyprvpn](https://www.goldenfrong/vyprvpn)
 
-<span class="leadtip" style="color:#34994b">✔ 使用 TOR瀏覧器.</span> 當不用VPN時, 請使用Tor瀏覧器來躲開網路審查和匿名瀏網。記得要定期更新 Tor 瀏覧器。下載請到： [https://www.torproject.org](https://www.torproject.org)
+<span class="highlight_color">✔ 使用 TOR瀏覧器.</span> 當不用VPN時, 請使用Tor瀏覧器來躲開網路審查和匿名瀏網。記得要定期更新 Tor 瀏覧器。下載請到： [https://www.torproject.org](https://www.torproject.org)
 
-<span class="leadtip" style="color:#34994b">✔ 使用TAILS.</span> Tails是一個自生作業系統，其最主要目的在於維護用戶隱私和匿名安全。 它是一套設計透過DVD, USB隨身碟或 SD卡來開機使用的完整作業系統，可完全獨立於電腦本身預載的原作業系統。 利用它，不管到哪裏都可以隨時利用某台電腦，匿名地上網和躲避網路審查，而不會留下被追踪的記錄，除非使用者刻意這麼作。進一步了解，請到[https://tails.boum.org/](https://tails.boum.org/)
+<span class="highlight_color">✔ 使用TAILS.</span> Tails是一個自生作業系統，其最主要目的在於維護用戶隱私和匿名安全。 它是一套設計透過DVD, USB隨身碟或 SD卡來開機使用的完整作業系統，可完全獨立於電腦本身預載的原作業系統。 利用它，不管到哪裏都可以隨時利用某台電腦，匿名地上網和躲避網路審查，而不會留下被追踪的記錄，除非使用者刻意這麼作。進一步了解，請到[https://tails.boum.org/](https://tails.boum.org/)

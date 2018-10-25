@@ -16,7 +16,7 @@ Good Passphrases are the Best Defense!15
 
 A “passphrase” is a long phrase used as a password, which is stronger than a secular word password. The increased length can allow for a greater number of possibilities, a passphrases made of randomly-chosen words can be both easy to remember and hard for someone else to guess, which is what we want.
 
-Computers are now fast enough to quickly guess passwords shorter than ten or so characters—and sometimes quite a few more. That means short passwords of any kind, even totally random ones like nQ\m=8*x, or !s7e&amp;nUY, or gaG5^bG, may be too weak, especially for settings where an attacker is able to quickly try an unlimited number of guesses. This is not necessarily true for an online account, where the speed and quantity of guesses will be limited, but it could be true in other cases (for instance, if someone gets ahold of your device and is trying to crack its encryption password).<sup>1</sup>
+Computers are now fast enough to quickly guess passwords shorter than ten or so characters—and sometimes quite a few more. That means short passwords of any kind, even totally random ones like nQ\m=8*x, or !s7e&amp;nUY, or gaG5^bG, may be too weak, especially for settings where an attacker is able to quickly try an unlimited number of guesses. This is not necessarily true for an online account, where the speed and quantity of guesses will be limited, but it could be true in other cases (for instance, if someone gets ahold of your device and is trying to crack its encryption password).<a href="#index1"><sup>1</sup></a>
 
 
 
@@ -61,7 +61,7 @@ Do not share your passphrase with anyone unless it is absolutely necessary. And,
 Avoid using the same passphrase for more than one account. That way if one passphrase is compromised hackers won't be able to exploit the rest of your accounts because you used your password  for all of your online services. A good way to keep track of many unique and complex passwords is to use a password managers like Keepass X, Last Pass and 1pass.
 
 **KEEP IT FRESH**
-Change your passphrase on a regular basis, preferably at least once every three to six months based on your risk assessment. Some people get quite attached to a particular passphrase and never change it. This is a bad idea. The longer you keep one password, the more opportunity others have to figure it out. Also, if someone is able to use your stolen password to access your information and services without you knowing about it, they will continue to do so until you change the password.<sup>2</sup>
+Change your passphrase on a regular basis, preferably at least once every three to six months based on your risk assessment. Some people get quite attached to a particular passphrase and never change it. This is a bad idea. The longer you keep one password, the more opportunity others have to figure it out. Also, if someone is able to use your stolen password to access your information and services without you knowing about it, they will continue to do so until you change the password.<a href="#index2"><sup>2</sup></a>
 
 
 
@@ -75,7 +75,7 @@ But hear us out. This is actually a good thing. After all, your bank information
 
 Passphrase managers actually become invaluable once you take the first step—they are an incredibly powerful improvement to your security, while also being very usable.
 
-Passphrase managers store all your passwords, generate strong ones for you, and in general, the only password you have to remember is the one to open your password manager. So, make it a strong one.<sup>3</sup>
+Passphrase managers store all your passwords, generate strong ones for you, and in general, the only password you have to remember is the one to open your password manager. So, make it a strong one.<a href="#index3"><sup>3</sup></a>
 
 
 ![](/images/Curriculum_img_80.png)
@@ -87,7 +87,7 @@ Passphrase managers store all your passwords, generate strong ones for you, and 
 
 LastPass saves your passwords and gives you secure access from every computer and mobile device. You only have to remember one password—your LastPass18 master password. Save all your usernames and passwords to LastPass, and it will auto login to your sites and sync your passwords everywhere you need them.
 
-The benefit of LastPass is that it is super easy to use across all your platforms. The problem is that its ease of use comes with the caveat that LastPass is a corporation and your information is in their cloud. So balance its ease with your vulnerability and make your decisions for its use based on that. In general Last Pass is better then no Password Manager so please consider it.<sup>4</sup>
+The benefit of LastPass is that it is super easy to use across all your platforms. The problem is that its ease of use comes with the caveat that LastPass is a corporation and your information is in their cloud. So balance its ease with your vulnerability and make your decisions for its use based on that. In general Last Pass is better then no Password Manager so please consider it.<a href="#index4"><sup>4</sup></a>
 
 
 ![](/images/Curriculum_img_81.jpg)
@@ -98,7 +98,7 @@ The benefit of LastPass is that it is super easy to use across all your platform
 
 KeePassX19 Password Safe is another free, open source, lightweight, and easy-to-use password manager for Windows, Linux, and Mac OS X, with ports for Android, iPhone/iPad and other mobile devices. You can download it for PC’s or Mac’s here.
 
-The benefits of KeePassX is that it is open source and is part of constellation of applications built by developers to support software independence. The challenges with KeePassX is the interface is confusing for beginners and there is not an easy way to sync KeePassX between your phone and your computer. That said, if you are willing to do a little work KeePassX can be one of your safest and most important autonomously implement password management solutions you could use.<sup>5</sup>
+The benefits of KeePassX is that it is open source and is part of constellation of applications built by developers to support software independence. The challenges with KeePassX is the interface is confusing for beginners and there is not an easy way to sync KeePassX between your phone and your computer. That said, if you are willing to do a little work KeePassX can be one of your safest and most important autonomously implement password management solutions you could use.<a href="#index5"><sup>5</sup></a>
 
 
 ![](/images/Curriculum_img_82.jpg)
@@ -151,7 +151,7 @@ The 1Password app has its own built-in browser that can take advantage of saved 
 		       </div>
 		     </div>
 
-Apps also exist for Androids that work similarly. We recommend you sync your data across devices on a secure wi-fi network.<sup>6</sup>
+Apps also exist for Androids that work similarly. We recommend you sync your data across devices on a secure wi-fi network.<a href="#index6"><sup>6</sup></a>
 
 
 ![](/images/Curriculum_img_87.jpg)
@@ -350,7 +350,7 @@ Almost all online accounts and platforms not offer two-factor authentication. Yo
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
-                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">We will cover two factor authorization for Twitter and Facebook in the social networking section that follows.<sup>7</sup></span>
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">We will cover two factor authorization for Twitter and Facebook in the social networking section that follows.<a href="#index7"><sup>7</sup></a></span>
 		       </div>
 		     </div>
 
@@ -449,7 +449,7 @@ The vast majority of malware is criminal, aimed at obtaining banking information
 
 <div class="GLBL_H2" markdown="1">## HOW CAN YOU IDENTIFY PHISHING SCHEMES?</div>
 
-The message contains a mismatched URL, or a misleading domain name.<sup>8</sup>
+The message contains a mismatched URL, or a misleading domain name.<a href="#index8"><sup>8</sup></a>
 
 
 ![](/images/Curriculum_img_112.jpg)
@@ -555,11 +555,19 @@ Finally, there is a more comprehensive list at Trollbusters at this link [https:
 ![](/images/Curriculum_img_119.png)
 
 
-1. [https://securityinabox.org/en/guide/passwords](https://securityinabox.org/en/guide/passwords) & [https://www.eff.org/dice](https://www.eff.org/dice)
-2. [https://securityinabox.org/en/lgbti-mena/passwords](https://securityinabox.org/en/lgbti-mena/passwords)
-3. [http://lifehacker.com/5529133/five-best-password-managers](http://lifehacker.com/5529133/five-best-password-managers)
-4. [https://lastpass.com/how-it-works/](https://lastpass.com/how-it-works/)
-5. [https://www.keepassx.org](https://www.keepassx.org)
-6. [https://1password.com/](https://1password.com/)
-7. [http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605](http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605) & [http://searchsecurity.techtarget.com/definition/two-factor-authentication](http://searchsecurity.techtarget.com/definition/two-factor-authentication)
-8. [https://ssd.eff.org/en/module/how-avoid-phishing-attacks](https://ssd.eff.org/en/module/how-avoid-phishing-attacks) &[https://www.eff.org/issues/state-sponsored-malware](https://www.eff.org/issues/state-sponsored-malware)
+
+<span id="index1">1</span>. [https://securityinabox.org/en/guide/passwords](https://securityinabox.org/en/guide/passwords) & [https://www.eff.org/dice](https://www.eff.org/dice)
+
+<span id="index2">2</span>. [https://securityinabox.org/en/lgbti-mena/passwords](https://securityinabox.org/en/lgbti-mena/passwords)
+
+<span id="index3">3</span>. [http://lifehacker.com/5529133/five-best-password-managers](http://lifehacker.com/5529133/five-best-password-managers)
+
+<span id="index4">4</span>. [https://lastpass.com/how-it-works/](https://lastpass.com/how-it-works/)
+
+<span id="index5">5</span>. [https://www.keepassx.org](https://www.keepassx.org)
+
+<span id="index6">6</span>. [https://1password.com/](https://1password.com/)
+
+<span id="index7">7</span>. [http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605](http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605) & [http://searchsecurity.techtarget.com/definition/two-factor-authentication](http://searchsecurity.techtarget.com/definition/two-factor-authentication)
+
+<span id="index8">8</span>. [https://ssd.eff.org/en/module/how-avoid-phishing-attacks](https://ssd.eff.org/en/module/how-avoid-phishing-attacks) &[https://www.eff.org/issues/state-sponsored-malware](https://www.eff.org/issues/state-sponsored-malware)

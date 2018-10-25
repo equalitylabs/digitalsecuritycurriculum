@@ -105,7 +105,7 @@ The foundation of protecting the data on your computer is [encryption](https://e
 
 When your computer is encrypted, data is stored in an unreadable jumbled form. If your Mac is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password.
 
-While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm. <sup>1</sup>
+While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm. <a href="#index1"><sup>1</sup></a>
 
 With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. [File Vault](https://en.wikipedia.org/wiki/FileVault) encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
 
@@ -579,4 +579,5 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 ![](/images/Curriculum_img_76.png)
 
 
-1. [https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/](https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/)
+
+<span id="index1">1</span>. [https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/](https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/)
