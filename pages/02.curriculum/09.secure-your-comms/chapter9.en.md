@@ -520,7 +520,7 @@ Using a technique like this, you can communicate over an insecure network and st
 		       </div>
 		     </div>
 
-USING GPGTOOLS FOR MAC
+<div class="SECS_H1" markdown="1"># USING GPG TOOLS FOR MAC</div>
 
 GPGTools is a free open-source software package that allows you to use public key encryption in your communications, primarily over email. You and your collaborator will both need to have a copy of GPG installed on your device.
 
