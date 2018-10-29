@@ -296,11 +296,6 @@ Now, back in your accounts page you can also perform a Privacy Check up.
 
 ![](/images/Curriculum_img_100.jpg)
 
-Google can collect information on you to send you “personalized ads”. This means that you may get ads that relate to your recent emails. For example, if you wrote to your mom about difficulties you were having with your health, Google may start showing you ads for relevant pharmaceuticals. We strongly recommend you turn this service off and protect your daily information.
-
-To be safe, we should assume that any information we put out there is available to corporations and third-parties even though it may not be visible to us,. For instance, it was recently discovered that turning off Google’s location settings only changes what we, the users, can see on our pages. Google continued to collect location data from it’s users using app activity. The only difference was that the information was now not displayed. 
-
-The way to prevent Google from doing this is to go through your settings and turn off ‘Web and App Activity”. As long as this feature is turned on, Google will continue to store your time-stamped location data. Alternately, you can also go into MyActivity and manually delete entries. 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -539,6 +534,20 @@ It is important to know where your personal data is online. By searching your in
 This can be crucial for when Trolls, stalkers, and worse try to bully our folks for speaking out, a common strategy they use is Doxxing. In Doxxing your personal information including addresses, phone numbers, work information and family members are exposed on public platforms so that it opens you up to physical harassment and intimidation offline.
 
 We want to stop tactics that might open up you and your loved ones to attacks. Limiting data is a crucial harm reduction strategy in a time when we are increasingly being seen as the target.
+
+**Find out what data you might be leaking to Google**
+
+Google can collect information on you to send you “personalized ads”. This means that you may get ads that relate to your recent emails. For example, if you wrote to your mom about difficulties you were having with your health, Google may start showing you ads for relevant pharmaceuticals. We strongly recommend you turn this service off and protect your daily information.
+
+To be safe, we should assume that any information we put out there is available to corporations and third-parties even though it may not be visible to us,. For instance, it was recently discovered that turning off Google’s location settings only changes what we, the users, can see on our pages. Google continued to collect location data from it’s users using app activity. The only difference was that the information was now not displayed. 
+
+The way to prevent Google from doing this is to go through your settings and turn off ‘Web and App Activity”. As long as this feature is turned on, Google will continue to store your time-stamped location data. Alternately, you can also go into MyActivity and manually delete entries. 
+
+**Curate the data you make public on Facebook**
+
+Your Facebook ‘About’ page contains an overview of information and content that you’ve added to your profile since you signed up for Facebook. This includes information about your hometown, education, family and relationships and political views. Links to Edit the information and control who can access this information can be found in the About section itself, the privacy settings for each item can be changed individually, making it fairly easy to customize. 
+
+Apart from social media platforms, people search websites like Spokeo and Anywho.com aggregate information from online and offline sources into a searchable database, making it easy for people to look up your private information(Including current and pas addresses and phone numbers) for a small subscription fee. 
 
 Please check yourself out and begin your data reduction journey with a visit to these sites:
 
