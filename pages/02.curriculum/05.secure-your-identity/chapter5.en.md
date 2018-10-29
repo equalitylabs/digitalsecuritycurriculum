@@ -439,6 +439,15 @@ If you set up 2-Step Verification using SMS text message or Voice call and also 
 
 <div class="SECY_H1" markdown="1"># PROTECT YOURSELF FROM PHISHING</div>
 
+During our trainings, we’ve come across a few cases where information from the organization’s personnel pages has been used to better target specific individuals. 
+
+For instance, consider a scenario where your financial manager can receive an email from the Executive Director requesting an urgent fund transfer to a new account. This could happen when the ED is travelling, possibly out of the country, making it more difficult to reach them and verify the email. 
+
+Alternately, your operations manager receives an from the Executive Director requesting a file containing the names and contact details of your board members. While this may not seem like highly sensitive information, it can potentially be used to doxx and harass your board. 
+
+It’s worth it to be extra careful with such requests. We advise you to look for signs of phishing in the email or any links that may be in it, double check with your Director or colleague from whom the email was sent, and lastly encrypt any sensitive files you are sharing. To learn how to use PGP to encrypt files, check out out the Encryption section. 
+
+
 When an attacker sends an email or link that looks innocent, but is actually malicious, it’s called phishing. Phishing attacks are a common way that users get infected with malware (“Malicious Software”)—programs that hide on your computer and can be used to remotely control it, steal information, or spy on you.22
 
 The vast majority of malware is criminal, aimed at obtaining banking information or login credentials for email or social media accounts. But malware is also used by state actors. State intelligence agencies use malware to carry out covert actions against other states’ computer systems, such as Flame and Stuxnet. States and state-supporting actors also use malware to spy on activists, journalists, and dissidents.23
