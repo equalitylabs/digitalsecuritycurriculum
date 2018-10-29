@@ -554,20 +554,9 @@ How to send encrypted email
 ![](/images/Curriculum_img_249.jpg)
 
 
-ENCRYPTED EMAILS
 
+Click on Compose to create a new email. Once you’ve drafted the email. Click on on the ‘Lock’ icon at the bottom left of the page.
 
- Another option is to simply use an ncrypted email service, like ProtonMail.
-
-ProtonMail is an end-to-end encrypted email service. Unlike common email providers like Gmail or Outlook, ProtonMail uses client-side encryption to protect emails and user data. Client-side encryption means that the email is encrypted at the sender’s end before it is send out to their servers. This means the data cannot be viewed by your ISP or other third-parties(For eg. the government) to access the data and it makes it difficult for bad actors to access the information even if the server were compromised. ProtonMail has a clean and easy-to-use interface similar to any email provider making it very easy to transition to using it. 
-
-While communication between ProtonMail users are end-to-end encrypted, emails sent to external emails(Gmail, Aol) are not. ProtonMail also stores emails in an encrypted format but the same cannot be said of other email clients. 
-
-ProtonMail offers an easy solution to provide end-to-end encryption at both ends while sending to an external email client. It’s ‘Encryption for Outside Users’ feature allows the sender to encrypt the email with a click of a button. Here’s a quick tutorial.
-
-<ProtonMailTutorial>
-
-Click on Compose to create a new email. Once you’ve drafted the email. Click on on the ‘Lock’ icon at the bottom left of the page. 
 
 
 PASSPHRASE RULES
