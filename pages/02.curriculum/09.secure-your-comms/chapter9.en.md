@@ -514,6 +514,16 @@ to-pick lock that would only take a few minutes to break. A strong encryption al
 
 Using a technique like this, you can communicate over an insecure network and still have security. The set of mathematical techniques that allow this to happen electronically is called public key encryption. This encryption techniques is the basis for all secure communication on the Internet, whether it’s HTTPS, GPG, Signal, Tor, or VPNs.<a href="#index5"><sup>5</sup></a>
 
+ <div class="SECS_H1" markdown="1"># SENDING SECURE EMAIL USING PROTONMAIL</div>
+
+ProtonMail is an end-to-end encrypted email service. Unlike common email providers like Gmail or Outlook, ProtonMail uses client-side encryption to protect emails and user data. Client-side encryption means that the email is encrypted at the sender’s end before it is send out to their servers. This means the data cannot be viewed by your ISP or other third-parties(For eg. the government) to access the data and it makes it difficult for bad actors to access the information even if the server were compromised. ProtonMail has a clean and easy-to-use interface similar to any email provider making it very easy to transition to using it. 
+
+While communication between ProtonMail users are end-to-end encrypted, emails sent to external emails(Gmail, Aol) are not. ProtonMail also stores emails in an encrypted format but the same cannot be said of other email clients. 
+
+ProtonMail offers an easy solution to provide end-to-end encryption at both ends while sending to an external email client. It’s ‘Encryption for Outside Users’ feature allows the sender to encrypt the email with a click of a button. Here’s a quick tutorial.
+
+
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">To begin using encryption, we recommend GPGTools for Mac and GNU Privacy Assistant for PC. You will learn about both in the following pages. </span>
