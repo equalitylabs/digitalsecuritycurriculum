@@ -296,10 +296,11 @@ Now, back in your accounts page you can also perform a Privacy Check up.
 
 ![](/images/Curriculum_img_100.jpg)
 
-
-
-
 Google can collect information on you to send you “personalized ads”. This means that you may get ads that relate to your recent emails. For example, if you wrote to your mom about difficulties you were having with your health, Google may start showing you ads for relevant pharmaceuticals. We strongly recommend you turn this service off and protect your daily information.
+
+To be safe, we should assume that any information we put out there is available to corporations and third-parties even though it may not be visible to us,. For instance, it was recently discovered that turning off Google’s location settings only changes what we, the users, can see on our pages. Google continued to collect location data from it’s users using app activity. The only difference was that the information was now not displayed. 
+
+The way to prevent Google from doing this is to go through your settings and turn off ‘Web and App Activity”. As long as this feature is turned on, Google will continue to store your time-stamped location data. Alternately, you can also go into MyActivity and manually delete entries. 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
