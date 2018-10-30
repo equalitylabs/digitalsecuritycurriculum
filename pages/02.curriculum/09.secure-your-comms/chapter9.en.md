@@ -4,8 +4,6 @@ media_order: 'protonmail0.1.png,protonmail0.2.png,Protonmail0.jpg,protonmail1.jp
 slug: secure_your_communications
 ---
 
-![](/images/Curriculum_img_216.jpg)
-
 <div class="SECS_H1" markdown="1"># ENCRYPTION: THE PATH TO SECURE COMMUNICATION</div>
 
 Digital communications is the backbone for all of our organizing work. Whether it's phone, text, whatsapp or Facebook messenger we are constantly in communication with each other, our families, and our movements.
@@ -530,7 +528,7 @@ ProtonMail offers an easy solution to provide end-to-end encryption at both ends
 		       </div>
 		     </div>
              
-             ![](/images/Protonmail0.jpg)    
+         ![](protonmail0.1.png)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
