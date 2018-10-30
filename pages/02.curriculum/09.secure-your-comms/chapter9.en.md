@@ -523,6 +523,11 @@ While communication between ProtonMail users are end-to-end encrypted, emails se
 ProtonMail offers an easy solution to provide end-to-end encryption at both ends while sending to an external email client. It’s ‘Encryption for Outside Users’ feature allows the sender to encrypt the email with a click of a button. Here’s a quick tutorial.
 
 
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Compose to create a new email. Once you’ve drafted the email. Click on on the ‘Lock’ icon at the bottom left of the page.</span>
+		       </div>
+		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
