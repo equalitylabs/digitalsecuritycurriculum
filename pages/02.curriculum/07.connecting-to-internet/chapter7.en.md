@@ -183,13 +183,16 @@ There are subtle, but important differences between using Tor and a VPN:
     <td width="319" valign="top"><p>A VPN company may log    your traffic without your knowledge or consent </p></td>
   </tr>
 </table>
+
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
+
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
-                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">If you’re in a position that demands both anonymity and privacy, we suggest using both Tor and a VPN. This would involve connecting to the internet using a VPN and then using the Tor browser to conduct searches or access websites. While we maintain that there is no silver bullet solution to protecting your privacy and data, this is a combination that offers a level of protection that will make it very difficult and expensive for the State or bad actors to succeed in gathering any information about your session.</span>
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1"> If you’re in a position that demands both anonymity and privacy, we suggest using both Tor and a VPN. This would involve connecting to the internet using a VPN and then using the Tor browser to conduct searches or access websites. While we maintain that there is no silver bullet solution to protecting your privacy and data, this is a combination that offers a level of protection that will make it very difficult and expensive for the State or bad actors to succeed in gathering any information about your session.</span>
 		       </div>
 		     </div>
+
 
 
 
