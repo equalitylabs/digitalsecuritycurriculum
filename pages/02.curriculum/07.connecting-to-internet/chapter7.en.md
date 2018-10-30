@@ -39,6 +39,7 @@ Your Internet traffic is monitored for keywords.
 * Blocked sites are blacklisted by both their IP addresses and their domain names.
 * You may be given an unclear or misleading reason to explain why a blocked site fails to load.
 
+
 <div class="SECK_H1" markdown="1"># BROWSE THE INTERNET ANONYMOUSLY AND BYPASS CENSORSHIP</div>
 
 <div class="GLBL_H2" markdown="1">## TOR</div>
@@ -139,6 +140,12 @@ Encrypting and decrypting data requires processing power. This also means that, 
 If you connect to the VPN server located geographically nearby in order to access a website that is also located nearby, expect a 10% decrease in Internet speed. If you connect to a server half way across the planet, you should expect a much greater decrease in speed.
 
 We encourage you to always look through the privacy policies of all VPNs that you work with. Some VPN's we recommend include VyprVPN by Golden Frog. Not all VPNs are transparent about what they share about you and where. Vypr currently has a minimal amount of data stored about you and your usage and they also hold all servers in house. The downside of Vypr is that it is a paid service. You can find it here: [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
+
+<span id="index5">5</span>. BANNED AND RESTRICTED VPNS
+
+In addition to going through the privacy policies of all the VPNs that you use, it’s also important to remember that a lot of companies that customize their product based on geographic location, see VPNs as a hindrance to their business models and are constantly working to catch and ban VPNs. For instance, try logging in to Netflix while you are connected through a VPN and you’ll find that the videos don’t play. This is because Netflix banned VPNs a few years ago and has built tools to detect when someone is attempting to use VPNs to access country specific content. Many countries have also restricted or banned VPN usage. In China and Russia, only government approved VPNs are allowed, while North Korea bans VPNs altogether. This gives these countries’ governments a great deal of control over what information their citizens can access online. However, hackers and VPN providers are constantly working to bypass these restrictions.  Google “how to bypass Netflix’s VPN ban’ and you’ll receive quite a few results.
+You can think of it as a cat-and-mouse-game where as soon as a government or a platform develops a way to detect and block VPNs, the VPN providers and hackers find a way to bypass this block and vice-versa. 
+
 
 ![](/images/Curriculum_img_162.png)
 
