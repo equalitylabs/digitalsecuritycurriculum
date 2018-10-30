@@ -4,7 +4,7 @@ media_order: 'protonmail0.1.png,protonmail0.2.png,Protonmail0.jpg,protonmail1.jp
 slug: secure_your_communications
 ---
 
-![](protonmail0.1.png)![](protonmail0.1.png)![](protonmail0.1.png)<div class="SECS_H1" markdown="1"># ENCRYPTION: THE PATH TO SECURE COMMUNICATION</div>
+<div class="SECS_H1" markdown="1"># ENCRYPTION: THE PATH TO SECURE COMMUNICATION</div>
 
 Digital communications is the backbone for all of our organizing work. Whether it's phone, text, whatsapp or Facebook messenger we are constantly in communication with each other, our families, and our movements.
 
@@ -522,13 +522,33 @@ While communication between ProtonMail users are end-to-end encrypted, emails se
 ProtonMail offers an easy solution to provide end-to-end encryption at both ends while sending to an external email client. It’s ‘Encryption for Outside Users’ feature allows the sender to encrypt the email with a click of a button. Here’s a quick tutorial.
 
 
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Compose to create a new email. Once you’ve drafted the email. Click on on the ‘Lock’ icon at the bottom left of the page.</span>
 		       </div>
 		     </div>
              
-         ![](protonmail0.1.png)
+![](Protonmail0.jpg)
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This will take you to a page asking for a password and a password hint. Use our passphrases guide to create a strong password. 
+</span>
+		       </div>
+		     </div>
+
+![](protonmail0.1.png)
+
+![](protonmail0.2.png)
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click ‘Set’. Your message is now encrypted with PGP and ready to send. The ‘Lock’ icon would now have turned blue. Don’t forget to let the receiver know what the password is. </span>
+		       </div>
+		     </div>
+
+![](protonmail1.jpg)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
