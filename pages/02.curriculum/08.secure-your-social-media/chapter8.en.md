@@ -971,8 +971,16 @@ Things to keep in mind about private posts:
 		       </div>
 		     </div>
 
+<div class="GLBL_H2" markdown="1">## Social Media During Travel</div>
 
+Crossing a border, or even traveling on a bus or train presents checkpoints both physical and virtual.  At the time of writing, many countries throughout the world are demanding access to lists of social media accounts in order to obtain a visa or even go through a checkpoint.  Officials will be going trying to find people who you are linked to that they don’t like, group affiliations, or pictures or photos.  
 
+For these times, it is important to:
+
+* When possible, try to provide an alternate travel friendly social media account with non-controversial content.  Be aware that excluding an account could be in violation of a visa application or border crossing rule in some countries.  
+* Perform a full audit of social media settings, and when possible change all privacy options to “friends only”.  Make sure that your connections lists, groups you are part of, likes of posts and media, and your biographic info is not available.
+* Government agents can be extremely ill-informed and arbitrary in their decision making processes.  Content should be checked for political opinions, and also for images of weapons, drugs, etc. no matter how innocent seeming or culturally relevant.
+* Make sure that social media audits are inclusive of platforms that are popular in one region but not others:  Facebook, Wechat, Whatsapp, etc.
 
 
 <span id="index1">1</span>. [https://securityinabox.org/ru/twitter_main](https://securityinabox.org/ru/twitter_main)
