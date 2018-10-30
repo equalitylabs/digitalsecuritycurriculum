@@ -530,7 +530,7 @@ ProtonMail offers an easy solution to provide end-to-end encryption at both ends
 		       </div>
 		     </div>
              
-             ![](http:/![](Protonmail0.jpg)/)
+             ![](/images/Protonmail0.jpg)    
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
