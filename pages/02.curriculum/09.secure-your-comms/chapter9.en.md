@@ -4,7 +4,7 @@ media_order: 'protonmail0.1.png,protonmail0.2.png,Protonmail0.jpg,protonmail1.jp
 slug: secure_your_communications
 ---
 
-
+![](/images/Curriculum_img_217.png)
 
 <div class="SECS_H1" markdown="1"># ENCRYPTION: THE PATH TO SECURE COMMUNICATION</div>
 
@@ -16,13 +16,7 @@ That is where **End-to-End Encryption Messaging** (E2EE) comes in! E2EE is desig
 
 While many apps say they offer E2EE, we give **[Signal](https://signal.org/#page-top)** our highest recommendation because they store the least amount of data and was developed by progressive developers to explicitly protect the right to privacy.
 
-WhatsApp, Facebook, and Apple Imessage all offer some form of E2EE but these corporations still monitor and share the content of your data while not being transparent about what
-
-
-![](/images/Curriculum_img_217.png)
-
-
-they would share with a government agency if you are targeted.
+WhatsApp, Facebook, and Apple Imessage all offer some form of E2EE but these corporations still monitor and share the content of your data while not being transparent about what they would share with a government agency if you are targeted.
 
 Sometimes these platforms may be the only way to reach people. Implement Signal where possible but if you must use these other tools only do so when necessary. We highly recommend you practice risk reduction by enabling encryption and verifying contacts.
 
