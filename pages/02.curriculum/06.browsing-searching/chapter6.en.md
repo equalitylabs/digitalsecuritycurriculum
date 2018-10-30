@@ -253,6 +253,10 @@ You can choose for example, to always use private browsing mode, which we highly
 
 ![](/images/Curriculum_img_138.jpg)
 
+**FIREFOX FOCUS**
+
+Mozilla’s Firefox Focus is a privacy-focused browser that is available for Windows, Mac, iOS and Android. The browser does not store browsing history, passwords, bookmarks or cookies, so your session is not tracked and you can begin a fresh session everytime you open the browser. This is useful when you want to search for information on topics that might be senstive in nature. For more information on how to setup and use Firefox Focus, visit the Mozilla website. 
+
 
 
 
@@ -389,6 +393,11 @@ This area contains settings that apply to all security zones.
 		     </div>
 
 If you leave it checked, different types of toolbars and addons are enabled on your system and this may affect your privacy. Many add-ons have proved to monitor your browsing habits or even attempt to collect private data from your browser.
+
+<div class="GLBL_H2" markdown="1">## UC BROWSER</div>
+
+Although UC browser is a popular choice among many users, especially in India,  a report published by Toronto based The Citizen Lab showed that UC browser presented many privacy issues, especially for users in India and China. The report found that due to a failure to encrypt user data, geolocation data and search queries, the browser  “allows anyone with access to the data traffic to identify users and their devices, and collect their private search data”. This leaves its users open to all kinds of attacks by bad actors. For this reason, we recommend users, especially those vulnerable to risk, to move on from UC browser and instead download and use security and privacy focused browsers like Duck Duck Go or Firefox Focus. 
+
 
 <div class="SECG_H1" markdown="1"># EXTENSIONS FOR A SAFER ONLINE SESSION</div>
 
