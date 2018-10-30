@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Communications'
+media_order: 'protonmail0.1.png,protonmail0.2.png,Protonmail0.jpg,protonmail1.jpg'
 slug: secure_your_communications
 ---
 
@@ -528,6 +529,8 @@ ProtonMail offers an easy solution to provide end-to-end encryption at both ends
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Compose to create a new email. Once you’ve drafted the email. Click on on the ‘Lock’ icon at the bottom left of the page.</span>
 		       </div>
 		     </div>
+             
+             ![](http:/![](Protonmail0.jpg)/)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
