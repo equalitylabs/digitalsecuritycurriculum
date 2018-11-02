@@ -683,18 +683,16 @@ FACEBOOK MOBILE APP
 
 On the facebook mobile app,  tap on the three-line icon on the top right corner. Then go to Settings and Privacy > Privacy Shortcuts > Control Facial Recognition, then tap on the Facial Recognition question and choose ‘No’. 
 
-![](Screenshot_20181102-121051.png?lightbox=600,400&resize=200,200)
+![](Screenshot_20181102-121051.png?lightbox=600,400&resize=400,400)
 
-![](Screenshot_20181102-121110.png)
+![](Screenshot_20181102-121110.png?lightbox=600,400&resize=400,400)
 
-![](Screenshot_20181102-121143.png)
+![](Screenshot_20181102-121143.png?lightbox=600,400&resize=400,400)
 
-![](Screenshot_20181102-121158.png)
+![](Screenshot_20181102-121158.png?lightbox=600,400&resize=400,400)
 
-![](Screenshot_20181102-121202.png)
+![](Screenshot_20181102-121202.png?lightbox=600,400&resize=400,400)
 
-
-![Sample Image](sample-image.jpg?lightbox=600,400&resize=200,200)
 
 FACEBOOK 
 
