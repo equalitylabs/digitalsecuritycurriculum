@@ -693,6 +693,19 @@ On the facebook mobile app,  tap on the three-line icon on the top right corner.
   </div>
 </div>
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 ![](Screenshot_20181102-121143.png?lightbox=600,400&resize=400,400)
