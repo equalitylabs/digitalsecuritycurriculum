@@ -692,7 +692,7 @@ On the facebook mobile app,  tap on the three-line icon on the top right corner.
 If you are on your desktop, go to **Settings>Face Recognition** and choose 'No' from the options. 
 
 ![](Screen%20Shot%202018-11-02%20at%2014.31.42.png)
-![](Screen%20Shot%202018-11-02%20at%2014.36.17.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2014.36.17.png)
 
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
 
