@@ -571,6 +571,23 @@ Whitepages (to remove listing: [https://support.whitepages.com/hc/en-us/articles
 Finally, there is a more comprehensive list at Trollbusters at this link [https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/](https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/)
 
 
+<div class="SECY_H1" markdown="1">#FACIAL RECOGNITION</div>
+
+Facial recognition is a technology which can identify or verify a person using a digital image or video. It part of a larger system of ‘biometric’ identification methods that include fingerprinting and retina scans and can be used to uniquely distinguish one individual from another. 
+
+Facial recognition has become fairly commonplace. Apple’s Face ID is  great example of how we use facial recognition in our daily lives. For more information on using Face ID to lock and open your phone, refer to the passwords portion in our ‘Secure your device’ section of this curriculum. Google Photos and Facebook has been using facial recognition to identify and tag different people in your photostream.  
+
+As activists and organizers, we are often the targets of surveillance so it is useful to be aware of how facial recognition can be used against us, and if need be, how we can find ways to work around it’s capabilities to protect our identities. Facial recognition is becoming increasingly popular as a surveillance technology all around the globe. Critics of facial recognition have said that the technology, especially used in the context of government surveillance and law enforcement, can adversely affect minorities and threaten freedom of expression since it’s uses can range from surveilling families at borders and identifying and maintaining a database of individuals at protests. Here are some ways we can minimize surveillance using facial recognition. 
+
+
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0" >
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1"> Other ways people work around facial recognition surveillance is by using masks and “anti-face” make-up. This is especially useful while travelling or participating in protests.</span>
+		       </div>
+		     </div>
+
+
 ![](/images/Curriculum_img_119.png)
 
 
