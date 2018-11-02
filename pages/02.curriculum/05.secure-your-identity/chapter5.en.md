@@ -348,6 +348,13 @@ The following section contains tutorials for how to implement two-factor authent
 * Have your password handy. You’ll be asked to reenter your password at the start of the process so make sure you have it before you begin. 
 * Before you begin, make sure your current phone number is registered on the platform. If not, take some time out to change it. 
 
+AUTHENTICATOR APPS
+
+2FA can protect your account from being hacked or stolen but bear in mind that setting up 2FA requires that you provide personal information, like your phone number, other email addresses etc, that will make these accounts increasingly traceable to you. Additionally, text messaging and voice calls can also be vulnerable to attack, depending on the risk category of the user. 
+
+This is very difficult to do but it if a bad actor was intent on getting into your one of your accounts and they have access to highly skilled hackers and resources, they can work around the 2FA set-up to do so. Scammers have been known to use social engineering to get your phone company to reactivate a new SIM card with your phone number, and then use this phone number to receive the pin or code with which they can gain access private accounts. SIM swapping, as it is commonly known, is also used in phishing scams. Similar risks exist when you set-up 2FA using an alternate email id. Additionally, it is also possible to intercept phone communication but this requires a lot of power and resources and is therefore more likely to be a State surveillance tactic rather than a scam. 
+
+In the context of these risks, we recommend users or accounts with higher risk profiles to use apps like Authy, Google Authenticator or Duo for an added layer of protection. These apps are not tied to the SIM card. Instead, the verification takes place through an encrypted channel between the app and the platform. This helps to protect your accounts any SIM card or phone related vulnerabilities. We recommend Authy because it supports more apps. The Authy website provides detailed guides on how to set-up 2FA for various platforms. You can access them here: https://authy.com/guides/. 
 
 <div class="GLBL_H2" markdown="1">## TWO FACTOR AUTHENTICATION FOR GMAIL (2FA)</div>
 
