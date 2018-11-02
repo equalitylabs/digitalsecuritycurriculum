@@ -1,6 +1,6 @@
 ---
 title: 'Secure Your Social Media'
-media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png,Screen Shot 2018-11-02 at 14.31.42.png,Screen Shot 2018-11-02 at 14.36.17.png'
+media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png,Screen Shot 2018-11-02 at 14.31.42.png,Screen Shot 2018-11-02 at 14.36.17.png,Screen Shot 2018-11-02 at 15.47.41.png,Screen Shot 2018-11-02 at 15.47.55.png,Screen Shot 2018-11-02 at 15.48.06.png,Screen Shot 2018-11-02 at 15.51.34.png'
 slug: secure_your_social_media
 ---
 
@@ -694,6 +694,42 @@ If you are on your desktop, go to **Settings>Face Recognition** and choose 'No' 
 ![](Screen%20Shot%202018-11-02%20at%2014.31.42.png)
 ![](Screen%20Shot%202018-11-02%20at%2014.36.17.png)
 
+
+SET UP TWO-FACTOR AUTHENTICATION
+
+Navigate to the profile settings using the button on the top right corner or clicking on the following link: https://www.facebook.com/settings. This will take you Facebook’s General Account Settings. 
+
+From the menu on the left hand side, choose Security and Login option. This will bring you to the settings page for anything to do with account security and log in. Scroll down to find the Two-Factor Authentication section. 
+
+![](Screen%20Shot%202018-11-02%20at%2014.31.42.png)
+
+Click on Edit. This will take you to the Two-Factor Authentication page. Click Get Started and enter your password to continue. Facebook will present you with two ways to set up two-factor authentication: via SMS and using an authentication app. 
+
+![](Screen%20Shot%202018-11-02%20at%2015.47.41.png)
+
+
+Click on Edit. This will take you to the Two-Factor Authentication page. Click Get Started and enter your password to continue. Facebook will present you with two ways to set up two-factor authentication: via SMS and using an authentication app. 
+
+![](Screen%20Shot%202018-11-02%20at%2015.47.55.png)
+
+_Set-up via Text Message_
+
+Choose the Text Message option and click Next to have a code sent to your registered phone number. You can use an existing number or add a new phone number here. This will bring you to a page where you will be asked to enter the six-digit code that’s sent to your preferred number. 
+
+![](Screen%20Shot%202018-11-02%20at%2015.48.06.png)
+
+Add the code, click **Next**. Your two-factor authentication is now set up!
+
+
+_Set-up via Third Party Authenticator_
+
+This option requires you to have downloaded an Authenticator app like Duo, Authy or Google Authenticator on your iOS or Android device. To read more about authenticator apps and how to use them, click here. 
+
+Click Third Party Authenticator option and click Next. You can either manually type-in the given code into your authenticator app or scan the QR code that appears or manually type in the given code into your to have a code sent to your registered phone number. 
+
+![](Screen%20Shot%202018-11-02%20at%2015.51.34.png)
+
+This will bring you to a page where you will be asked to enter the six-digit code that’s sent to your preferred number. Add the code, click Next. Your two-factor authentication is now set up!
 
 ADDITIONAL SECURITY FEATURES
 
