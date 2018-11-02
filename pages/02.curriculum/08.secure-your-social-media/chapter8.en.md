@@ -694,6 +694,14 @@ If you are on your desktop, go to **Settings>Face Recognition** and choose 'No' 
 ![](Screen%20Shot%202018-11-02%20at%2014.31.42.png)
 ![](Screen%20Shot%202018-11-02%20at%2014.36.17.png)
 
+
+ADDITIONAL SECURITY FEATURES
+
+Facebook offers several other ways to ensure your account is safe. These features can  be accessed by going to to 'Security and Login' tab under General Settings. 
+
+For instance, you can view the last login from our account. This means, that if you feel that you may have been hacked or that your account has been compromised in anyway, you can check the 'last login' time and place to make sure. You can do this by going to Settings>Security and Login and checking the time and location of the last login. If you see a suspicious login, make sure to change your password immediately. 
+
+
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
 
 Twitter<a href="#index1"><sup>1</sup></a> has become a valuable platform where activists around the world break their stories and ideas. It's become a place for, real on the ground news updates on movements and protest, where the oppressed have a voice and are able to connect with people in a real and powerful way.
