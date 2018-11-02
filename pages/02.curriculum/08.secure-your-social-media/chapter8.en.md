@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Social Media'
+media_order: 'Screenshot_20181102-121051.png,Screenshot_20181102-121110.png,Screenshot_20181102-121143.png,Screenshot_20181102-121158.png,Screenshot_20181102-121202.png'
 slug: secure_your_social_media
 ---
 
@@ -659,6 +660,8 @@ This will open a page titled Custom Audiences from your Website and Mobile App, 
 		     </div>
 
 
+
+
 ![](/images/Curriculum_img_199.jpg)
 
 
@@ -670,6 +673,20 @@ After a request for confirmation, you will see the result:
 ![](/images/Curriculum_img_200.jpg)
 
 
+FACIAL RECOGNITION AND HOW TO OPT-OUT OF IT
+
+We willingly upload a large volume of images of ourselves, our families, partners and allies onto social media. These images not only add to the giant image database using which platforms like Google and Facebook train their facial recognition algorithms, but it also has implications to our privacy. Combined with facial recognition tools like Social Mapper, Images we upload on social media can expose our profiles and subsequently our identities to bad actors. This can make doxxing, harassment and social engineering much easier. You can also make a habit of blurring out the faces of certain at-risk individuals from photos that your organization posts on social media. 
+
+Here's an easy guide to how you can turn off facial recognition on Facebook.
+
+FACEBOOK MOBILE APP
+
+On the facebook mobile app,  tap on the three-line icon on the top right corner. Then go to Settings and Privacy > Privacy Shortcuts > Control Facial Recognition, then tap on the Facial Recognition question and choose ‘No’. 
+
+![](Screenshot_20181102-121051.png)![](Screenshot_20181102-121110.png)![](Screenshot_20181102-121143.png)![](Screenshot_20181102-121158.png)![](Screenshot_20181102-121202.png)
+
+
+FACEBOOK 
 
 
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
