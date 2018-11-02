@@ -508,23 +508,60 @@ Now we will work to scrub, or remove, existing metadata from images we have take
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">When removing metadata from a photo that is about to be shared, PixlMet makes a copy of the original photo and only removes metadata from the copy. The original file remains unmodified in your photo library.</span>
 		       </div>
 		     </div>
+             
+             
+<div class="GLBL_H2" markdown="1">## 8. USE VIRTUAL PHONE NUMBERS TO SHIELD YOUR IDENTITY</div>
 
-**USE VIRTUAL PHONE NUMBERS TO SHIELD YOUR IDENTITY**
+Every mobile phone in the world can be uniquely tracked across locations in real time, and the complete communication history between any two mobile phones is accessible by corporations and governments.  
 
-Many people find the use of virtual phone numbers critical in their work.  A virtual phone number allows someone to make and receive phone calls and SMS messages through their phone but via an alternate phone number.   Use of this technology can help obscure your real identity in situations when dealing with unknown persons in the general public.  Common uses of virtual phone numbers include posting them as a number in social media apps for job hunting, dating, etc.  In the activist world, common uses include giving out a virtual phone number when engaging in community organizing work for a hotline.  Additionally these phone numbers can be useful when maintaining a public online presence, such as a contact point in a social media profile.  Virtual phone number services can be found free or cheaply in much of the world.  However, due to legal restrictions on Voice Over IP (VOIP) services, virtual phone numbers are not available in India.  
+Many people find the use of virtual phone numbers critical in their work.  A virtual phone number allows someone to make and receive phone calls and SMS messages through their phone but via an alternate phone number.   Use of this technology can help obscure your real identity in situations when dealing with unknown persons in the general public.  Common uses of virtual phone numbers include posting them as a number in social media apps for job hunting, dating, etc.  In the activist world, common uses include giving out a virtual phone number when engaging in community organizing work for a hotline. 
 
-In North America, two options include acquiring a free Google Voice number.  This option is good for people that need a single phone number that can be used for a long period of time, such as a hotline number.  It is also possible to use other security apps, like Signal Messenger, on top of a Google Voice number.  Setting up a number takes approximately 5 minutes, and instructions can be found here:   https://support.google.com/voice/answer/7207482
+Consider the following use case: You are organizing a local protest and need to set up a helpline phone number that can be called in case of any emergency. Rather than circulating yours or your organization’s permanent phone,  you can use your virtual phone number to generate a new number and make this number available to event attendees. Once the event is over, you can go ahead and delete the number and close that channel of communication. This goes a long way in maintaining privacy and securing your identity. Additionally these phone numbers can be useful when maintaining a public online presence, such as a contact point in a social media profile.  Virtual phone number services can be found free or cheaply in much of the world.  
 
-There are many other paid commercial providers of virtual numbers.  In North America, popular apps include Burner App, Sideline, Hushed, Grasshopper, and Skype virtual phone numbers.  Each of these providers have different price points and features, depending on the needs of an organization. 
+In North America, two options include acquiring a free Google Voice number.  This option is good for people that need a single phone number that can be used for a long period of time, such as a hotline number.  It is also possible to use other security apps, like Signal Messenger, on top of a Google Voice number.  
+
+There are many other paid commercial providers of virtual numbers.  In North America, popular apps include Burner App, Sideline, Hushed, Grasshopper, and Skype virtual phone numbers.  Each of these providers have different price points and features, depending on the needs of an organization.
+
+**GOOGLE VOICE**
+
+Google Voice makes it very easy to generate multiple phone numbers and set up call forwaridng services. Once you create an account on Google Voice, the application allows the user to pick a U.S. telephone number from a list of available number and forwards calls to this number to the telephone number that you used to create the Google Voice account. Users in the U.S. and a few other countries can also use the Google Voice app  to place calls to international and domestic destinations, though this is not free of charge. Here’s a step-by-step guide on how you can download, install and use Google Voice. 
+
+Before you begin, you’ll need a Google Account and make sure you have your phone handy and can receive texts. Download and install Google Voice from the Play Store. Setting up a number takes approximately 5 minutes, and instructions can be found here:   https://support.google.com/voice/answer/7207482.
+
+
+**BURNER APP**
+
+Burner App is an app that allows you to get burner numbers that you can use from your smartphone. Like a burner phone, it provides you with anonymity and a temporary number that you can use. People use the Burner app in different situations including online dating, applying for jobs, online marketplaces like Craigslist and Etsy or any situation where you are giving away your contact information to a lot of new people. 
+
+Burner app allows you to get temporary numbers for as short as three days. This is perfect for activists and organizers, who are required to share their contact details with people including the press, event attendees and other acquaintances. 
+
+Start by downloading Burner app from the Google Play Store or iStore and creating an account. You can then set up a virtual number by following these simple instructions: http://support.burnerapp.com/customer/en/portal/articles/2728090-creating-a-burner
+
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0" >
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">Unfortunately, due to regulations of telecommunications in India, Google Voice and Burner App do not work for Indian users. For more information on encrypted communications for the Indian context, please refer to the Secure your Communications section. 
+</span>
+		       </div>
+		     </div>
+             
+             
 
 **USE OF BURNER PHONES**
-
-Every mobile phone in the world can be uniquely tracked across locations in real time, and the complete communication history between any two mobile phones is accessible by corporations and governments.  At times, it is useful to employ the use of ultra-cheap feature phones to conduct operations without revealing location or identity.  These phones are called Burner Phones because they are intended to be disposable and one-time for a given operation.  Activists often use burner phones in order to communicate during a protest or provide a phone number to activate an online service.  The use of burner phones in India is generally not available due to ID requirements for purchase of a SIM card.  
+ 
+At times, it is useful to employ the use of ultra-cheap feature phones to conduct operations without revealing location or identity. These phones are called Burner Phones because they are intended to be disposable and one-time for a given operation.  Activists often use burner phones in order to communicate during a protest or provide a phone number to activate an online service.  The use of burner phones in India is generally not available due to ID requirements for purchase of a SIM card.  
 
 * Burner phones should be kept away from personal mobile phones, laptops, or any other devices that broadcast on the internet that could identify you.  Keep a faraday bag at all times in order to block signals from your phones. 
 * Phones should be bought in pairs in cash.  Feature phones that are available with pre-paid plans can be found for under 20 USD at major chain stores.  Ideally the store is in a different locale than where you live.  If using an ATM for cash, do it on a separate day and locale than the point of purchase.  Do not bring your normal mobile phone or tablet with you during purchase (or be sure to use a faraday bag).  You can also buy pre-paid phone cards in cash from similar stores if you run out of data or minutes.
 * Do not power on or remove out of a faraday bag when you are in a location that is associated with you:  your home, your work, or a place you are known to frequent.
 * Once you are done with the phone, it’s a good idea to smash it with a hammer and dispose of it in a trash away from your home.
+
+. 
+
+
+
+
+
 
 
 ![](/images/Curriculum_img_39.png)
