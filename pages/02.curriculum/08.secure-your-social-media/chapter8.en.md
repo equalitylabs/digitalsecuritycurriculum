@@ -1,6 +1,6 @@
 ---
 title: 'Secure Your Social Media'
-media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png'
+media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png,Screen Shot 2018-11-02 at 14.31.42.png,Screen Shot 2018-11-02 at 14.36.17.png'
 slug: secure_your_social_media
 ---
 
@@ -689,7 +689,10 @@ On the facebook mobile app,  tap on the three-line icon on the top right corner.
 ![](Screen%20Shot%202018-11-02%20at%2013.52.32.png?lightbox=600,400&resize=400,400)
 ![](Screen%20Shot%202018-11-02%20at%2013.52.47.png?lightbox=600,400&resize=400,400)
 
+If you are on your desktop, go to **Settings>Face Recognition** and choose 'No' from the options. 
 
+![](Screen%20Shot%202018-11-02%20at%2014.31.42.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2014.36.17.png?lightbox=600,400&resize=400,400)
 
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
 
