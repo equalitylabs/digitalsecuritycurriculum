@@ -322,6 +322,32 @@ We recommend you get an IBA Opt Out Extension for your Google Chrome. This tells
 
 
 
+<div class="GLBL_H2" markdown="1">## WHAT IS TWO FACTOR AUTHENTICATION? (2FA)</div>
+
+Because passwords can be phished, guessed, cracked, or acquired in other ways (like Keyloggers), you may want to consider adding another barrier to your accounts through two-factor authentication.
+ 
+Also known as two-step verification, multi-factor authentication and commonly abbreviated as 2FA adds an extra step to your basic login procedure. Typical logins use single factor authentication: you only need to enter your username and password to gain access to your most frequented accounts, say Gmail or Facebook. 
+ 
+When you enable 2FA, it asks for two factors of authentication. This additional factor can be code or even physical dongle or device that is connected to your computer. The code is typically sent to you via mobile phone or email. 
+ 
+A common example of two-factor authentication is a bank debit card. In order to use the card at a store or an ATM, you need (1) the card itself and (2) the personal identification number(PIN) or code that goes with the card. To use the card to shop or withdraw money, you need both the physical card and the PIN. 
+ 
+As mentioned earlier, most digital platforms use single factor authentication by default but given the amount of personal data present on digital platforms today, and the extent to which this data has been weaponized, almost all online platforms now offer two-factor authentication. With two-factor authentication in place, if someone hacks your password, they will still need your phone or Security Key to gain access to your account. 
+ 
+Most people still only have their passwords to protect their accounts. Once two-factor authentication is set up, signing into your account will work a little differently. Rather than logging in with just your username and password, you will be required to enter an additional code that will be sent to you via text message, voice call, email or mobile app. 
+
+Many users find 2FA cumbersome because it adds an extra step to the login process. This additional layer of protection does goes a long way in protecting your data from bad actors so it is up to you to make the best decision on 2FA across different platforms  based on your situation and your needs. 
+
+The following section contains tutorials for how to implement two-factor authentication on different online platforms. We’ve tried to cover the most commonly used platforms, and also platforms which have been previously been sites for hacking and doxxing. For platforms that are not covered below, you can implement 2FA by going to https://www.turnon2fa.com. You’ll find tutorials for almost every platform you can think of and some you would even be surprised by. 
+
+
+**Pro tips**
+
+* Now that Two-factor authentication(Also known as Two-factor verification, Two-factor authorization, Multi-factor authentication) is common across most platforms, instructions on how to set it up can be found in the Help sections of the platforms themselves. 
+* It is common for platforms to keep changing their interface everytime the software is updated. This means that there may be minor changes to how you can navigate the platform. The instructions on platform Help pages are typically up to date with respect to these changes so they serve as good resources for anyone looking to make changes to their accounts and settings. 
+* Have your password handy. You’ll be asked to reenter your password at the start of the process so make sure you have it before you begin. 
+* Before you begin, make sure your current phone number is registered on the platform. If not, take some time out to change it. 
+
 
 <div class="GLBL_H2" markdown="1">## TWO FACTOR AUTHENTICATION FOR GMAIL (2FA)</div>
 
