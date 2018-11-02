@@ -1,6 +1,6 @@
 ---
 title: 'Secure Your Social Media'
-media_order: 'Screenshot_20181102-121051.png,Screenshot_20181102-121110.png,Screenshot_20181102-121143.png,Screenshot_20181102-121158.png,Screenshot_20181102-121202.png'
+media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.12.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png'
 slug: secure_your_social_media
 ---
 
@@ -684,33 +684,12 @@ FACEBOOK MOBILE APP
 On the facebook mobile app,  tap on the three-line icon on the top right corner. Then go to Settings and Privacy > Privacy Shortcuts > Control Facial Recognition, then tap on the Facial Recognition question and choose ‘No’.
 
 
-<div class="row">
-  <div class="column">
-    <![](Screenshot_20181102-121051.png?lightbox=600,400&resize=400,400)>
-  </div>
-  <div class="column">
-    <![](Screenshot_20181102-121110.png?lightbox=600,400&resize=400,400)>
-  </div>
-</div>
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
+![](Screen%20Shot%202018-11-02%20at%2013.51.49.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2013.52.12.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2013.52.32.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2013.52.47.png?lightbox=600,400&resize=400,400)
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
-![](Screenshot_20181102-121143.png?lightbox=600,400&resize=400,400)
-![](Screenshot_20181102-121158.png?lightbox=600,400&resize=400,400)
-![](Screenshot_20181102-121202.png?lightbox=600,400&resize=400,400)
 
 
 FACEBOOK 
