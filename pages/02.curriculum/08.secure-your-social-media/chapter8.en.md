@@ -1,6 +1,6 @@
 ---
 title: 'Secure Your Social Media'
-media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.12.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png'
+media_order: 'Screen Shot 2018-11-02 at 13.51.49.png,Screen Shot 2018-11-02 at 13.52.32.png,Screen Shot 2018-11-02 at 13.52.47.png,Screen Shot 2018-11-02 at 13.53.00.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png,Screen Shot 2018-11-02 at 14.03.44.png,Screen Shot 2018-11-02 at 14.05.20.png'
 slug: secure_your_social_media
 ---
 
@@ -683,16 +683,12 @@ FACEBOOK MOBILE APP
 
 On the facebook mobile app,  tap on the three-line icon on the top right corner. Then go to Settings and Privacy > Privacy Shortcuts > Control Facial Recognition, then tap on the Facial Recognition question and choose ‘No’.
 
-
-
-![](Screen%20Shot%202018-11-02%20at%2013.51.49.png?lightbox=600,400&resize=400,400)
-![](Screen%20Shot%202018-11-02%20at%2013.52.12.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2013.53.00.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2014.05.20.png?lightbox=600,400&resize=400,400)
+![](Screen%20Shot%202018-11-02%20at%2014.03.44.png?lightbox=600,400&resize=400,400)
 ![](Screen%20Shot%202018-11-02%20at%2013.52.32.png?lightbox=600,400&resize=400,400)
 ![](Screen%20Shot%202018-11-02%20at%2013.52.47.png?lightbox=600,400&resize=400,400)
 
-
-
-FACEBOOK 
 
 
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
